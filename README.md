@@ -1,4 +1,9 @@
 # -Monopoly-Go-Bots-By-Breuk-
+
+[![Watch the video](https://i.ytimg.com/vi/gwbOSly2b7o/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC4gWKAgwIABABGGUgUyhSMA8=&rs=AOn4CLDAVIjgfsTS1SCoeyuXKj7biZvvBw)](https://raw.githubusercontent.com/Breuk-Beyond/-Monopoly-Go-Bots-By-Breuk-/video.mp4)
+
+
+
 https://www.youtube.com/watch?v=gwbOSly2b7o
 
 Monopoly Go AI-bots for complete automatic game-play to farm dice and stickers.
