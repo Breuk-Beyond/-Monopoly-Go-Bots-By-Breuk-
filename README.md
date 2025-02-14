@@ -1,6 +1,6 @@
 # -Monopoly-Go-Bots-By-Breuk-
 
-[![Watch the video](https://i.ytimg.com/vi/gwbOSly2b7o/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC4gWKAgwIABABGGUgUyhSMA8=&rs=AOn4CLDAVIjgfsTS1SCoeyuXKj7biZvvBw)](https://raw.githubusercontent.com/Breuk-Beyond/-Monopoly-Go-Bots-By-Breuk-/video.mp4)
+[![Watch the video](https://i.ytimg.com/vi/gwbOSly2b7o/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC4gWKAgwIABABGGUgUyhSMA8=&rs=AOn4CLDAVIjgfsTS1SCoeyuXKj7biZvvBw)](https://github.com/Breuk-Beyond/-Monopoly-Go-Bots-By-Breuk-/main/Monopoly%20Go%20Bots%20By%20Breuk.mp4)
 
 
 
